@@ -96,3 +96,23 @@ footer a { color: var(--muted); text-decoration: none; margin: 0 10px; }
 footer a:hover { color: var(--text); }
 footer p { color: var(--quiet); margin: 0 0 10px; }
 .updated { font-size: 14px; color: var(--quiet); margin-bottom: 22px; }
+
+/* the app's screens: a sideways row on a phone, wrapping on a wide screen */
+.gallery {
+  display: flex; gap: 14px;
+  overflow-x: auto; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch;
+  margin: 0 -20px; padding: 28px 0;
+  border-bottom: 1px solid var(--line);
+}
+.gallery picture { flex: 0 0 auto; scroll-snap-align: start; scroll-margin-left: 20px; }
+.gallery picture:first-child { margin-left: 20px; }
+.gallery picture:last-child { margin-right: 20px; }
+.gallery img {
+  width: min(62vw, 240px); height: auto; border-radius: 22px;
+  border: 1px solid var(--line); background: var(--bg2);
+}
+@media (min-width: 860px) {
+  .gallery { flex-wrap: wrap; justify-content: center; overflow-x: visible; margin: 0 calc(50% - 50vw + 20px); }
+  .gallery img { width: 200px; }
+  .gallery picture:first-child, .gallery picture:last-child { margin: 0; }
+}
