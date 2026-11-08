@@ -1,0 +1,29 @@
+# AlignHealth
+
+> AlignHealth is an iPhone and Apple Watch app that predicts how you'll feel today, and why. Every morning it predicts how rested you are, at midday how your day is going, and in the evening how tired you are. Then it shows the reasons, from your own days: your sleep, your steps, your heart, the weather you were out in.
+
+It starts with what's true for most people, then it learns you, only from you. It compares you only with your own days, never with a target like 10,000 steps. The more you wear your watch, especially at night, the better it gets. It is not medical advice: it doesn't diagnose anything or tell you what to do about your health.
+
+## Cost
+- Free, always: your health in one place, with sleep, steps, heart, hrv, energy and workouts from your Apple Watch.
+- 30 days free, then £19.99 once. No subscription. That pays for the daily questions, the predictions, the reasons behind them, and the weather you were out in.
+- One payment covers up to six people with Family Sharing. Each person's AlignHealth learns only from them, on their own phone.
+- Nothing is ever deleted when the free month ends.
+
+## What it needs
+- Apple Watch Series 4 or newer, or any Apple Watch SE, with an iPhone XS or newer. It needs iOS 17.6 and watchOS 10.6 or later. A Series 3 or older won't work.
+- Location is optional. Without it, AlignHealth still works, just without the weather and places.
+- It works offline. Only the weather needs a connection.
+- English only, for now.
+
+## Privacy
+- AlignHealth has no servers and collects nothing. No account, no email.
+- AlignHealth uses health data on your phone and sends none of it to us.
+- The only location AlignHealth sends is a rough position, about 2 km across, sent to Apple's weather to get the forecast.
+- You can download, delete and restore your data from Profile at any time.
+
+## Pages
+- [Home](https://alignhealth.app/): what AlignHealth does, how it works, free and paid
+- [Questions](https://alignhealth.app/questions.html): answers to common questions
+- [Support](https://alignhealth.app/support.html): email info@alignhealth.app
+- [Privacy](https://alignhealth.app/privacy.html): what the app reads, writes and sends
