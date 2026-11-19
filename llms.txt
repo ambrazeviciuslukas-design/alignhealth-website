@@ -4,9 +4,11 @@
 
 It starts with what's true for most people, then it learns you, only from you. It compares you only with your own days, never with a target like 10,000 steps. The more you wear your watch, especially at night, the better it gets. It is not medical advice: it doesn't diagnose anything or tell you what to do about your health.
 
+AlignHealth is out now. [Download it on the App Store](https://apps.apple.com/app/alignhealth-sleep-energy/id6774304582).
+
 ## Cost
 - Free, always: your health in one place, with sleep, steps, heart, hrv, energy and workouts from your Apple Watch.
-- 30 days free, then £19.99 once. No subscription. That pays for the daily questions, the predictions, the reasons behind them, and the weather you were out in.
+- 30 days free, then one payment. £19.99 in the UK, and Apple shows the price for your country. No subscription. That pays for the daily questions, the predictions, the reasons behind them, and the weather you were out in.
 - One payment covers up to six people with Family Sharing. Each person's AlignHealth learns only from them, on their own phone.
 - Nothing is ever deleted when the free month ends.
 
